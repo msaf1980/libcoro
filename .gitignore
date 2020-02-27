@@ -1,9 +1,14 @@
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
+Testing
 cmake_install.cmake
+CTestTestfile.cmake
+Makefile
 config.h
 *.xcodeproj
 _build
 *.build
 Debug
+test_coro
+*.a
